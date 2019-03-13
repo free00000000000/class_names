@@ -2,8 +2,8 @@
 ===
 * [音符參考 wiki](png/https://en.wikipedia.org/wiki/List_of_musical_symbols#Time_signatures)
 
-|     | Label              | picture                  |
-| --- | ------------------ | ------------------------ |
+|     | Label              | picture                      |
+| --- | ------------------ | ---------------------------- |
 | 0   | brace              | ![](png/brace.png)           |
 | 1   | repeatLeft         | ![](png/repeatL.png)         |
 | 2   | repeatRight        | ![](png/repeatR.png)         |
@@ -16,16 +16,16 @@
 | 9   | doubleBar          | ![](png/doublebar.png)       |
 | 10  | BoldDoubleBar      | ![](png/boldDoubleBar.png)   |
 | 11  | dotBar             | ![](png/dotBar.png)          |
-| 12  | timeSig0           | 4 4                      |
+| 12  | timeSig0           | 4 4                          |
 | 13  | timeSig0_1         | ![](png/timeSig0.png)        |
-| 14  | timeSig1           | 2 2                      |
+| 14  | timeSig1           | 2 2                          |
 | 15  | timeSig1_1         | ![](png/timeSig1.png)        |
-| 16  | timeSig2           | 2 4                      |
-| 17  | timeSig3           | 3 4                      |
-| 18  | timeSig4           | 3 8                      |
-| 19  | timeSig5           | 6 8                      |
-| 20  | timeSig6           | 9 8                      |
-| 21  | timeSig7           | 12 8                     |
+| 16  | timeSig2           | 2 4                          |
+| 17  | timeSig3           | 3 4                          |
+| 18  | timeSig4           | 3 8                          |
+| 19  | timeSig5           | 6 8                          |
+| 20  | timeSig6           | 9 8                          |
+| 21  | timeSig7           | 12 8                         |
 | 22  | octupleWholeNote   | ![](png/octwholenote.png)    |
 | 23  | quadrupleWholeNote | ![](png/quadwholenote.png)   |
 | 24  | doubleWholeNote    | ![](png/doublewholenote.png) |
