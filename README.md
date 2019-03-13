@@ -69,22 +69,27 @@
 | 62  | 64thRest           |
 | 63  | 128thRest          |
 | 64  | 256thRest          |
-| 65  |
-| 66  |
-| 67  |
-| 68  |
-| 69  |
-| 70  |
-| 71  |
-| 72  |
-| 73  |
-| 74  |
-| 75  |
-| 76  |
-| 77  |
-| 78  |
-| 79  |
-| 80  |
+| 65  | dot                |
+| 66  | ghost              |
+| 67  | multiMeasureRest   |
+| 68  | breathMark         |
+| 69  | caesura            |
+| 70  | flat               |
+| 71  | sharp              |
+| 72  | natural            |
+| 73  | doubleSharp        |
+| 74  | deminflat          |
+| 75  | flatAndHalf        |
+| 76  | demisharp          |
+| 77  | SharpAndHalf       |
+| 78  | spiccato           |
+| 79  | accent             |
+| 80  | tenuto             |
+| 81  | marcato            |
+| 82  | fermata            |
+| 83  | upBow              |
+| 84  | downBow            |
+
 
 
 
