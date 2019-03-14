@@ -16,79 +16,85 @@
 | 9   | doubleBar          | ![](png/doublebar.png)       |
 | 10  | BoldDoubleBar      | ![](png/boldDoubleBar.png)   |
 | 11  | dotBar             | ![](png/dotBar.png)          |
-| 12  | timeSig0           | 4 4                          |
-| 13  | timeSig0_1         | ![](png/timeSig0.png)        |
-| 14  | timeSig1           | 2 2                          |
-| 15  | timeSig1_1         | ![](png/timeSig1.png)        |
-| 16  | timeSig2           | 2 4                          |
-| 17  | timeSig3           | 3 4                          |
-| 18  | timeSig4           | 3 8                          |
-| 19  | timeSig5           | 6 8                          |
-| 20  | timeSig6           | 9 8                          |
-| 21  | timeSig7           | 12 8                         |
-| 22  | octupleWholeNote   | ![](png/octwholenote.png)    |
-| 23  | quadrupleWholeNote | ![](png/quadwholenote.png)   |
-| 24  | doubleWholeNote    | ![](png/doublewholenote.png) |
-| 25  | wholeNote          | ![](png/wholenote.png)       |
-| 26  | halfNote           | ![](png/halfnotehead.png)    |
-| 27  | noteHead           | ![](png/headnote.png)        |
-| 28  | flag8thSingleU     |
-| 29  | flag8thsingelD     |
-| 30  | flag8thUp          |
-| 31  | flag8thDown        |
-| 32  | flag16thSingleU    |
-| 33  | flag16thSingleD    |
-| 34  | flag16thUp         |
-| 35  | flag16thDown       |
-| 36  | flag32thSingleU    |
-| 37  | flag32thSingleD    |
-| 38  | flag32thUp         |
-| 39  | flag32thDown       |
-| 40  | flag64thSingleU    |
-| 41  | flag64thSingleD    |
-| 42  | flag64thUp         |
-| 43  | flag64thDown       |
-| 44  | flag128thSingleU   |
-| 45  | flag128thSingleD   |
-| 46  | flag128thUp        |
-| 47  | flag128thDown      |
-| 48  | flag256thSingleU   |
-| 49  | flag256thSingleD   |
-| 50  | flag256thUp        |
-| 51  | flag256thDown      |
-| 52  | octupleWholeRest   |
-| 53  | quadrupleWholeRest |
-| 54  | doubleWholeRest    |
-| 55  | wholeRest          |
-| 56  | halfRest           |
-| 57  | quarterRest0       |
-| 58  | quarterRest1       |
-| 59  | 8thRest            |
-| 60  | 16thRest           |
-| 61  | 32thRest           |
-| 62  | 64thRest           |
-| 63  | 128thRest          |
-| 64  | 256thRest          |
-| 65  | dot                |
-| 66  | ghost              |
-| 67  | multiMeasureRest   |
-| 68  | breathMark         |
-| 69  | caesura            |
-| 70  | flat               |
-| 71  | sharp              |
-| 72  | natural            |
-| 73  | doubleSharp        |
-| 74  | deminflat          |
-| 75  | flatAndHalf        |
-| 76  | demisharp          |
-| 77  | SharpAndHalf       |
-| 78  | spiccato           |
-| 79  | accent             |
-| 80  | tenuto             |
-| 81  | marcato            |
-| 82  | fermata            |
-| 83  | upBow              |
-| 84  | downBow            |
+| 12  | timeSig44         | ![](png/timeSig0.png)        |
+| 13  | timeSig22         | ![](png/timeSig1.png)        |
+| 14  | timeSig0           | 0                          |
+| 15  | timeSig1           | 1                         |
+| 16  | timeSig2           | 2                          |
+| 17  | timeSig3           |  3                         |
+| 18  | timeSig4           |4                       |
+| 19  | timeSig5           | 5                       |
+| 20  | timeSig6           | 6                          |
+| 21  | timeSig7           | 7                         |
+|22|timeSig8|8|
+|23|timeSig9|9|
+| 24  | octupleWholeNote   | ![](png/octwholenote.png)    |
+| 25  | quadrupleWholeNote | ![](png/quadwholenote.png)   |
+| 26  | doubleWholeNote    | ![](png/doublewholenote.png) |
+| 27  | wholeNote          | ![](png/wholenote.png)       |
+| 28  | halfNote           | ![](png/halfnotehead.png)    |
+| 29  | noteHead           | ![](png/headnote.png)        |
+| 30  | flag8thSingleU     |
+| 31  | flag8thsingleD     |
+| 32  | flag8thUp          |
+| 33  | flag8thDown        |
+| 34  | flag16thSingleU    |
+| 35  | flag16thSingleD    |
+| 36  | flag16thUp         |
+| 37  | flag16thDown       |
+| 38  | flag32thSingleU    |
+| 39  | flag32thSingleD    |
+| 40  | flag32thUp         |
+| 41  | flag32thDown       |
+| 42  | flag64thSingleU    |
+| 43  | flag64thSingleD    |
+| 44  | flag64thUp         |
+| 45  | flag64thDown       |
+| 46  | flag128thSingleU   |
+| 47  | flag128thSingleD   |
+| 48  | flag128thUp        |
+| 49  | flag128thDown      |
+| 50  | flag256thSingleU   |
+| 51  | flag256thSingleD   |
+| 52  | flag256thUp        |
+| 53  | flag256thDown      |
+| 54  | octupleWholeRest   |
+| 55  | quadrupleWholeRest |
+| 56  | doubleWholeRest    |
+| 57  | wholeRest          |
+| 58  | halfRest           |
+| 59  | quarterRest0       |
+| 60  | quarterRest1       |
+| 61  | 8thRest            |
+| 62  | 16thRest           |
+| 63  | 32thRest           |
+| 64  | 64thRest           |
+| 65  | 128thRest          |
+| 66  | 256thRest          |
+| 67  | dot                |
+| 68  | ghost              |
+| 69  | multiMeasureRest   |
+| 70  | breathMark         |
+| 71  | caesura            |
+| 72  | flat               |
+| 73  | sharp              |
+| 74  | natural            |
+| 75  | doubleSharp        |
+| 76  | deminflat          |
+| 77  | flatAndHalf        |
+| 78  | demisharp          |
+| 79  | SharpAndHalf       |
+|80|tie|
+|81|slur|
+| 82  | spiccato           |
+| 83  | accent             |
+| 84  | tenuto             |
+| 85  | marcato            |
+| 86  | fermata            |
+|87|appoggiatura|
+|88|acciaccatura|
+| 89  | upBow              |
+| 90  | downBow            |
 
 
 
