@@ -71,8 +71,8 @@
 | 64  | 64thRest           |
 | 65  | 128thRest          |
 | 66  | 256thRest          |
-| 67  | dot                |
-| 68  | ghost              |
+| 67  | dot                |![](png/dotnote.png)<br>![](png/staccato.png)|
+| 68  | ghost              |![](png/Ghost_note.png)|
 | 69  | multiMeasureRest   |
 | 70  | breathMark         |
 | 71  | caesura            |
