@@ -80,10 +80,10 @@
 | 73  | sharp              | ![](png/sharp.png)                            |
 | 74  | natural            | ![](png/natural.png)                          |
 | 75  | doubleSharp        | ![](png/doublesharp.png)                      |
-| 76  | demiflat           |![](png/demiflat.png)
-| 77  | flatAndHalf        |![](png/flatAndhalf.png)
-| 78  | demisharp          |![](png/demisharp.png)
-| 79  | sharpAndHalf       |![](png/sharpAndhalf.png)
+| 76  | demiflat           | ![](png/demiflat.png)                         |
+| 77  | flatAndHalf        | ![](png/flatAndhalf.png)                      |
+| 78  | demisharp          | ![](png/demisharp.png)                        |
+| 79  | sharpAndHalf       | ![](png/sharpAndhalf.png)                     |
 | 80  | tie                | ![](png/tie.png)                              |
 | 81  | slur               | ![](png/slur.png)                             |
 | 82  | spiccato           | ![](png/spiccato.png)                         |
