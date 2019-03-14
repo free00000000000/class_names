@@ -39,7 +39,7 @@
 | 32  | flag8thUp          | ![](png/mflag8th.png)                         |
 | 33  | flag8thDown        |
 | 34  | flag16thSingleU    | ![](png/flag16th.png)                         |
-| 35  | flag16thSingleD    |
+| 35  | flag16thSingleD    |![](png/flag16thD.png)
 | 36  | flag16thUp         |
 | 37  | flag16thDown       |
 | 38  | flag32thSingleU    | ![](png/flag32th.png)                         |
