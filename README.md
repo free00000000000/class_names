@@ -36,7 +36,7 @@
 | 29  | noteHead           | ![](png/headnote.png)                         |
 | 30  | flag8thSingleU     | ![](png/flag8th.png)                          |
 | 31  | flag8thsingleD     |
-| 32  | flag8thUp          |
+| 32  | flag8thUp          | ![](png/mflag8th.png)                         |
 | 33  | flag8thDown        |
 | 34  | flag16thSingleU    | ![](png/flag16th.png)                         |
 | 35  | flag16thSingleD    |
@@ -63,8 +63,8 @@
 | 56  | doubleWholeRest    | ![](png/doublewholerest.png)                  |
 | 57  | wholeRest          | ![](png/halfRest.png)                         |
 | 58  | halfRest           | ![](png/halfRest.png)                         |
-| 59  | quarterRest0       |
-| 60  | quarterRest1       |
+| 59  | quarterRest0       | ![](png/quarterRest0.png)                     |
+| 60  | quarterRest1       | ![](png/quarterRest1.png)                     |
 | 61  | 8thRest            | ![](png/rest8th.png)                          |
 | 62  | 16thRest           | ![](png/rest16th.png)                         |
 | 63  | 32thRest           | ![](png/rest32th.png)                         |
@@ -80,10 +80,10 @@
 | 73  | sharp              | ![](png/sharp.png)                            |
 | 74  | natural            | ![](png/natural.png)                          |
 | 75  | doubleSharp        | ![](png/doublesharp.png)                      |
-| 76  | deminflat          |
-| 77  | flatAndHalf        |
-| 78  | demisharp          |
-| 79  | sharpAndHalf       |
+| 76  | demiflat           |![](png/demiflat.png)
+| 77  | flatAndHalf        |![](png/flatAndhalf.png)
+| 78  | demisharp          |![](png/demisharp.png)
+| 79  | sharpAndHalf       |![](png/sharpAndhalf.png)
 | 80  | tie                | ![](png/tie.png)                              |
 | 81  | slur               | ![](png/slur.png)                             |
 | 82  | spiccato           | ![](png/spiccato.png)                         |
