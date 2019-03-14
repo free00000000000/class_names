@@ -87,15 +87,15 @@
 |80|tie|
 |81|slur|
 | 82  | spiccato           |
-| 83  | accent             |
-| 84  | tenuto             |
-| 85  | marcato            |
-| 86  | fermata            |
-|87|appoggiatura|
-|88|acciaccatura|
-| 89  | upBow              |
-| 90  | downBow            |
-
+| 83  | tenuto             |
+| 84  | marcato            |
+| 85  | fermata            |
+|86|appoggiatura|
+|87|acciaccatura|
+| 88  | upBow              |
+| 89  | downBow            |
+| 90  | crescendo             |
+|91|diminuendo|
 
 
 
