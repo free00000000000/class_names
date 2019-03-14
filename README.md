@@ -1,6 +1,6 @@
 標籤
 ===
-* [音符參考 wiki](png/https://en.wikipedia.org/wiki/List_of_musical_symbols#Time_signatures)
+* [音符參考 wiki](https://en.wikipedia.org/wiki/List_of_musical_symbols#Time_signatures)
 
 |     | Label              | picture                      |
 | --- | ------------------ | ---------------------------- |
