@@ -61,7 +61,7 @@
 | 54  | octupleWholeRest   | ![](png/octuplewholerest.png)                  |
 | 55  | quadrupleWholeRest | ![](png/quadruplewholerest.png)                |
 | 56  | doubleWholeRest    | ![](png/doublewholerest.png)                   |
-| 57  | wholeRest          | ![](png/halfRest.png)                          |
+| 57  | wholeRest          | ![](png/wholerest.png)                          |
 | 58  | halfRest           | ![](png/halfRest.png)                          |
 | 59  | quarterRest0       | ![](png/quarterRest0.png)                      |
 | 60  | quarterRest1       | ![](png/quarterRest1.png)                      |
